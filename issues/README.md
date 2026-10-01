@@ -4,13 +4,13 @@
 
 ## 進捗
 
-**完了: 0 / 20(0%)**
+**完了: 6 / 20(30%)**
 
 | 状態 | 件数 |
 | --- | --- |
-| 未着手 | 20 |
+| 未着手 | 14 |
 | 実装中 | 0 |
-| 完了 | 0 |
+| 完了 | 6 |
 
 > 状態が変わったら、上の集計と一覧の「状態」列を同時に更新してください。
 > issue 内のチェックボックス(要求・検収基準)がすべて `[x]` になったら「完了」にします。
@@ -25,13 +25,13 @@
 
 | # | タイトル | ファイル | スコープ | 状態 |
 | --- | --- | --- | --- | --- |
-| 001 | タスクの追加 | [001-add-task.md](./001-add-task.md) | 基盤 | 未着手 |
-| 002 | タスク一覧表示と空状態 | [002-task-list.md](./002-task-list.md) | 基盤 | 未着手 |
-| 003 | タスクの削除 | [003-delete-task.md](./003-delete-task.md) | 基盤 | 未着手 |
-| 004 | localStorage による永続化 | [004-localstorage.md](./004-localstorage.md) | 基盤 | 未着手 |
-| 005 | タスクの完了 / 完了解除 | [005-complete-toggle.md](./005-complete-toggle.md) | v1 | 未着手 |
+| 001 | タスクの追加 | [001-add-task.md](./001-add-task.md) | 基盤 | 完了 |
+| 002 | タスク一覧表示と空状態 | [002-task-list.md](./002-task-list.md) | 基盤 | 完了 |
+| 003 | タスクの削除 | [003-delete-task.md](./003-delete-task.md) | 基盤 | 完了 |
+| 004 | localStorage による永続化 | [004-localstorage.md](./004-localstorage.md) | 基盤 | 完了 |
+| 005 | タスクの完了 / 完了解除 | [005-complete-toggle.md](./005-complete-toggle.md) | v1 | 完了 |
 | 006 | タスクの編集(インライン) | [006-edit-task.md](./006-edit-task.md) | v1 | 未着手 |
-| 007 | フィルタ(すべて / 未完了 / 完了済み) | [007-filter.md](./007-filter.md) | v1 | 未着手 |
+| 007 | フィルタ(すべて / 未完了 / 完了済み) | [007-filter.md](./007-filter.md) | v1 | 完了 |
 | 008 | 完了済みの一括削除 | [008-clear-completed.md](./008-clear-completed.md) | v1 | 未着手 |
 | 009 | タスクの優先度と期限日 | [009-priority-due-date.md](./009-priority-due-date.md) | ロードマップ | 未着手 |
 | 010 | ドラッグ&ドロップによる並び替え | [010-reorder-dnd.md](./010-reorder-dnd.md) | ロードマップ | 未着手 |
