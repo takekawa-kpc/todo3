@@ -21,3 +21,4 @@ Thumbs.db
 .vscode/*
 !.vscode/mcp.json
 .idea/
+.aider*
