@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "playwright test"
+    "test": "playwright test",
+    "commit": "git add . && git commit -m 'update' && git push",
+    "sync": "git pull origin main --rebase && git push"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -15,7 +17,9 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.45.0",
+    "@tailwindcss/vite": "^4.1.0",
     "@vitejs/plugin-react": "^4.3.1",
+    "tailwindcss": "^4.1.0",
     "vite": "^5.4.0"
   }
 }

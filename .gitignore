@@ -5,6 +5,10 @@ node_modules/
 dist/
 build/
 
+# Playwright
+test-results/
+playwright-report/
+
 # Logs
 *.log
 
@@ -21,4 +25,3 @@ Thumbs.db
 .vscode/*
 !.vscode/mcp.json
 .idea/
-.aider*
